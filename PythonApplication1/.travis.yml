@@ -1,7 +1,0 @@
-
-languale: python
-python: 3.8
-script:
-	- cd PythonApplication1
-	- pytest
-	- cd ...
